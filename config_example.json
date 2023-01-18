@@ -1,0 +1,10 @@
+{
+    "example.com": {
+        "subdomain": "https://jvadair.com",
+        "*": "https://somewhere.com",
+        "@": "https://homepage.com"
+    },
+    "domain2.com": {
+        "subdomain": "https://jvadair.com"
+    }
+}
